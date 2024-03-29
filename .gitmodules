@@ -1,6 +1,3 @@
 [submodule "Tennis-Reservation-App"]
 	path = Tennis-Reservation-App
 	url = https://github.com/thomasriley0/Tennis-Reservation-App
-[submodule "homework-2-arcane-setup-CalebLehman16"]
-	path = homework-2-arcane-setup-CalebLehman16
-	url = https://github.com/CSCI-4448-5448-OOAD-Spring2024/homework-2-arcane-setup-CalebLehman16
