@@ -1,3 +1,6 @@
 [submodule "Tennis-Reservation-App"]
 	path = Tennis-Reservation-App
 	url = https://github.com/thomasriley0/Tennis-Reservation-App
+[submodule "Arcane-CalebLehman16"]
+	path = Arcane-CalebLehman16
+	url = https://github.com/CSCI-4448-5448-OOAD-Spring2024/Arcane-CalebLehman16
